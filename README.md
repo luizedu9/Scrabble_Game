@@ -1,5 +1,5 @@
 # Scrabble_Game
-Jogo de palavras cruzadas. Player vs Player ou Player vs Computer
+Jogo de palavras cruzadas em Python. Player vs Player ou Player vs Computer
 
 Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, IFMG - Campus Formiga Ciência da Computação
 
@@ -8,7 +8,7 @@ Jogo Scrabble para a disciplina Projeto e Analise de Algoritmos.
 Autores: Luiz Eduardo Pereira, Rafaela Martins Vieira.
 
 Objetivo:
-O objetivo deste trabalho era criar um simulador para um Pronto Socorro para sugerir mudanças na composição de funcionarios. Para isso leva-se em conta 3 KPIs (Key Performance Indicator) medidos. Ociosidade, Tempo Medio em Fila e Tamanho Medio em Fila. Para entender como o simulador funciona, olhar o DCA (Diagrama de Ciclo de Atividades) e os Envent Listeners disponiveis na pasta Projeto.
+O objetivo deste trabalho era criar o classico jogo Scrabble de palavras cruzadas, disponibilizando a opção de jogar contra o computador.
 
 Execução:
 python3 run.py config.txt saida.csv
