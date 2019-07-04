@@ -7,18 +7,10 @@ Jogo Scrabble para a disciplina Projeto e Analise de Algoritmos.
 
 Autores: Luiz Eduardo Pereira, Rafaela Martins Vieira.
 
-Objetivo:
-O objetivo deste trabalho era criar o classico jogo Scrabble de palavras cruzadas, disponibilizando a opção de jogar contra o computador.
+# Objetivo:
+Scrabble (mais conhecido no Brasil com o nome de Palavras Cruzadas) é um jogo de tabuleiro em que os jogadores procuram marcar pontos formando palavras válidas construídas com letras sorteadas que recebem antes das suas jogadas mais algumas das letras que já se encontram inseridas no tabuleiro. As palavras formadas são sempre ortogonalmente interligadas num quadro dividido em 225 casas.
+O presente trabalho consiste em desenvolver uma aplicação para gerenciar e jogar partidas de Scrabble entre dois jogadores que podem ser usuários humanos ou computadores.
 
-Execução:
-python3 run.py config.txt saida.csv
+# Execução:
 
-run.py executa 100 simulações consecutivas armazenando os resultados em um arquivo de extensão CSV. config.txt possui todos os parametros de entrada do programa, como tempo de simulação, número de funcionarios e distribuições de chegada de pacientes / tempo de atendimento.
-
-Para analisar resultados entre duas amostras:
-
-Rscript output-analysis-script.r Arquivos necessarios: amostra1.csv, amostra2.csv
-
-Código cedido pelo Prof. Me. Diego Mello da Silva
-
-Referencia para as distribuições utilizadas: Silva, L. P. “Análise de Cenários em um Sistema de Pronto Socorro Atendimento Utilizando Simulação Discreta”. https://bit.ly/2JelTs7
+python3 scrabble.py
