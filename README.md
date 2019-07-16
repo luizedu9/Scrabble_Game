@@ -1,7 +1,9 @@
 # Scrabble_Game
 Jogo de palavras cruzadas em Python. Player vs Player ou Player vs Computer
 
-Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, IFMG - Campus Formiga Ciência da Computação
+Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, IFMG - Campus Formiga
+
+Ciência da Computação
 
 Jogo Scrabble para a disciplina Projeto e Analise de Algoritmos.
 
